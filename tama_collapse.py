@@ -4,7 +4,7 @@ import re
 import sys
 import time
 from Bio import SeqIO
-from StringIO import StringIO
+from io import StringIO
 from Bio import AlignIO
 import os
 import argparse
